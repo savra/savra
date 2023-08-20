@@ -5,7 +5,7 @@ Hello everyone! Nice to see you. Welcome to my page!
 I'm Sergey, a software engineer in backend development. I have been professionally involved in software development since 2013, programmed in various languages. For the last 3+ years I have been writing in Java.
 
 In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, look at them below, aren't they cute?
-<img src = "https://github.com/savra/savra/blob/14838c287e76b4cc31d79169a564cdb758973c5e/photo_2023-08-20_21-56-31.jpg">
+<img src = "https://github.com/savra/savra/blob/cb84e0c8b0808c9519784f6c61f4d89d2e746124/photo_2023-08-20_22-35-28.jpg">
 
 ---
 
