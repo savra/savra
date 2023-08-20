@@ -32,6 +32,6 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 
 ## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=savra&theme=slateorange&background=232937)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=savra&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=savra&style=flat-square)
