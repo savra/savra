@@ -1,6 +1,6 @@
 <img src = "https://github.com/savra/savra/blob/06095a139f3db7e37dbd889d85fa6ce28a961485/photo_2023-08-20_22-58-24.jpg">
 
-Hello everyone! Nice to see you. Welcome to my page!
+Hello everyone! Nice to see you👀. Welcome to my page!
 
 I'm Sergey, a software engineer in backend development. I have been professionally involved in software development since 2013, programmed in various languages. For the last 3+ years I have been writing in Java.
 
