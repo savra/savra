@@ -5,6 +5,8 @@ I'm Sergey, a software engineer in backend development. I have been professional
 ---
 
 ### My contacts
+<a href="https://www.linkedin.com/in/sergey-s-868b0762/"><img src="https://img.shields.io/badge/Sergey_Savrukhin-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/sergey-s-868b0762/" height=25></a>
+
 
 ---
 
