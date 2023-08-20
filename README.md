@@ -1,4 +1,4 @@
-<img src = "https://github.com/savra/savra/blob/6ec9959effa8935c23d9e15d0cb37089de032023/photo_2023-08-21_00-24-08.jpg">
+<img src = "https://github.com/savra/savra/blob/bb0c8db8ad116b9c6abfb0fc0eafcf6be8c81d1d/photo_2023-08-21_00-29-45.jpg">
 
 # Hello everyone! Nice to see you. Welcome to my page! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
