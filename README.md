@@ -9,7 +9,7 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 ---
 
 ### My contacts
-<a href="https://t.me/savra_sv"><img src="https://img.shields.io/badge/savra__sv-2D79F6?style=for-the-badge&logo=telegram&link=https://t.me/savra_sv" height=25></a>
+<a href="https://t.me/savra_sv"><img src="https://img.shields.io/badge/savra__sv-white?style=for-the-badge&logo=telegram&link=https://t.me/savra_sv" height=25></a>
 <a href="https://vk.com/sv.savra"><img src="https://img.shields.io/badge/sv.savra-2D79F6?style=for-the-badge&logo=vk&link=https://vk.com/sv.savra" height=25></a>
 <a href="https://www.linkedin.com/in/sergey-s-868b0762/"><img src="https://img.shields.io/badge/Sergey_Savrukhin-3179B4?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/sergey-s-868b0762/" height=25></a>
 <a href="https://medium.com/@savra.sv"><img src="https://img.shields.io/badge/savra__sv-272727?style=for-the-badge&logo=medium&link=https://medium.com/@savra.sv" height=25></a>
