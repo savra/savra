@@ -1,4 +1,4 @@
-<img src = "https://github.com/savra/savra/blob/e69af690f97eb2aad118fcde55e13c06c88c040b/photo_2023-08-20_22-45-54.jpg"  width="600" height="300">
+<img src = "https://github.com/savra/savra/blob/06095a139f3db7e37dbd889d85fa6ce28a961485/photo_2023-08-20_22-58-24.jpg">
 
 Hello everyone! Nice to see you. Welcome to my page!
 
