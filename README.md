@@ -1,11 +1,12 @@
-Hello everyone! I'm Sergey, a software engineer in backend development. 
-I have been professionally involved in software development since 2013, programmed in various languages. For the last 3+ years I have been writing in Java and studying Kotlin for fun in my spare time
+Hello everyone! Nice to see you. Welcome to my page!
+
+I'm Sergey, a software engineer in backend development. I have been professionally involved in software development since 2013, programmed in various languages. For the last 3+ years I have been writing in Java and studying Kotlin for fun in my spare time
 
 ---
 
 ### My contacts
 
-===
+---
 
 
 
