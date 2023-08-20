@@ -16,10 +16,7 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,kubernetes,git,github,gitlab,idea,docker,postman)](https://skillicons.dev)
 
 #### Medium
-[![My Skills](https://skillicons.dev/icons?i=postgres,kafka,kotlin,jenkins,html,js,react,powershell)](https://skillicons.dev)
-
-#### Low
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,kafka,kotlin,jenkins,html,js,react,powershell,bash,css,gradle,react,materialui)](https://skillicons.dev)
 
 ---
 
