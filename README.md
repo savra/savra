@@ -1,11 +1,17 @@
+### About me
+
 Hello everyone! Nice to see you. Welcome to my page!
 
-I'm Sergey, a software engineer in backend development. I have been professionally involved in software development since 2013, programmed in various languages. For the last 3+ years I have been writing in Java and studying Kotlin for fun in my spare time
+I'm Sergey, a software engineer in backend development. I have been professionally involved in software development since 2013, programmed in various languages. For the last 3+ years I have been writing in Java.
+
+In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, look at them below, aren't they cute?
 
 ---
 
 ### My contacts
 <a href="https://www.linkedin.com/in/sergey-s-868b0762/"><img src="https://img.shields.io/badge/Sergey_Savrukhin-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/sergey-s-868b0762/" height=25></a>
+<a href="https://youtube.com/@savradev"><img src="https://img.shields.io/badge/savradev-red?style=for-the-badge&logo=youtube&link=https://youtube.com/@savradev" height=25></a>
+
 
 
 ---
