@@ -11,6 +11,7 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 ### My contacts
 <a href="https://www.linkedin.com/in/sergey-s-868b0762/"><img src="https://img.shields.io/badge/Sergey_Savrukhin-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/sergey-s-868b0762/" height=25></a>
 <a href="https://youtube.com/@savradev"><img src="https://img.shields.io/badge/savradev-red?style=for-the-badge&logo=youtube&link=https://youtube.com/@savradev" height=25></a>
+<a href="[https://youtube.com/@savradev](https://vk.com/sv.savra)"><img src="https://img.shields.io/badge/sv.savra-2D79F6?style=for-the-badge&logo=vk&link=https://vk.com/sv.savra" height=25></a>
 
 
 
