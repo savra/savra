@@ -10,7 +10,7 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 
 ---
 
-## 🔧 Languages and Tools
+## 📖 Languages and Tools
 
 #### High
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,kubernetes,git,github,gitlab,idea,docker,postman)](https://skillicons.dev)
