@@ -31,7 +31,25 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 ---
 
 ## &#x1f4c8; My GitHub Stats
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats"/>
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=savra&theme=react&hide_border=true" alt="savra streak-stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" width=390 alt="savra Github Stats" src="https://github-readme-stats.vercel.app/api?username=savra&show_icons=true&theme=react&hide_border=true"/>
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+    <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="savra Top Languages" width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savra&langs_count=8&layout=compact&theme=react&hide_border=true&hide=JavaScript" />
+    </a>
+  </div>
+  <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=savra&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savra&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=savra&style=flat-square)
