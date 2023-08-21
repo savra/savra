@@ -10,7 +10,7 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 
 ---
 
-## :book: Languages and Tools
+## 🔧 Languages and Tools
 
 #### High
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,kubernetes,git,github,gitlab,idea,docker,postman)](https://skillicons.dev)
@@ -30,7 +30,7 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 
 ---
 
-## My GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=savra&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
 
