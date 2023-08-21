@@ -6,7 +6,7 @@ I'm Sergey, a software engineer in backend development. I have been professional
 
 In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, look at them below, aren't they cute? 👀
 
-<img src = "https://github.com/savra/savra/blob/0d2a093c2c691b73a73968c56911141d42261bd4/photo_2023-08-20_23-04-29.jpg">
+<div align="center"><img align="center" src = "https://github.com/savra/savra/blob/0d2a093c2c691b73a73968c56911141d42261bd4/photo_2023-08-20_23-04-29.jpg"></div>
 
 ---
 
