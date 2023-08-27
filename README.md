@@ -52,4 +52,6 @@ In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, lo
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=savra&style=flat-square)
+![views](https://komarev.com/ghpvc/?username=savra&style=flat-square)
+![followers](https://img.shields.io/github/followers/savra?style=flat-square&label=Followers)
+![followers](https://img.shields.io/github/stars/savra?style=flat-square&label=Stars)
