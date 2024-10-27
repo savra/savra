@@ -2,7 +2,7 @@
 
 # Hello everyone! Nice to see you. Welcome to my page! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Sergey, a software engineer in backend development. I have been professionally involved in software development since 2013, programmed in various languages. For the last 3+ years I have been writing in Java.
+I'm Sergey, a software engineer in backend development. I have been professionally involved in software development since 2013, programmed in various languages. For the last 5+ years I have been writing in Java.
 
 In my spare time, I study Kotlin for fun and play with my favorite cats. Hey, look at them below, aren't they cute? 👀
 
